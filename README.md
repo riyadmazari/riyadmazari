@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
     <!-- Frontend -->
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -50,7 +50,7 @@
         <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
     </a>
 </p>
-<p align="center">
+<p align="left">
     <!-- Backend -->
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -77,7 +77,7 @@
         <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
     </a>
 </p>
-<p align="center">
+<p align="left">
     <!-- Machine Learning and Data Science -->
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
@@ -95,7 +95,7 @@
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
     </a>
 </p>
-<p align="center">
+<p align="left">
     <!-- DevOps and Infrastructure -->
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -122,6 +122,6 @@
 
 
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyadmazari&show_icons=true&locale=en&layout=compact" alt="riyadmazari" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyadmazari&show_icons=true&locale=en&layout=compact" alt="riyadmazari" /></p>
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyadmazari&" alt="riyadmazari" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyadmazari&" alt="riyadmazari" /></p>
