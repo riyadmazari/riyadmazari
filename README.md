@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **pro@riyadmazari.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/riyad-mazari/](https://www.linkedin.com/in/riyad-mazari/)
-
 - ⚡ Fun fact **I hate TensorFlow**
 
 <h3 align="left">Connect with me:</h3>
