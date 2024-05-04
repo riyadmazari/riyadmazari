@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riyad Mazari</h1>
 <h3 align="center">🚀 Hello! I'm Riyad Mazari, a 3rd-year CS & AI enthusiast. I blend code with creativity to explore the AI universe. 🤖💡 Welcome to my digital playground! 🌟</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyadmazari" alt="riyadmazari" /></a> </p>
-
 - 🔭 I’m currently working on [PATT](https://github.com/patt-club)
 
 - 🌱 I’m currently learning **Next.Js, Java, Shiny**
@@ -125,3 +123,5 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyadmazari&show_icons=true&locale=en&layout=compact" alt="riyadmazari" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyadmazari&" alt="riyadmazari" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyadmazari" alt="riyadmazari" /></a> </p>
