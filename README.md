@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PATT](https://github.com/patt-club)
 
-- 🌱 I’m currently learning **Next.Js, Java, Shiny**
+- 🌱 I’m currently learning **Java, Shiny**
 
 - 👨‍💻 All of my projects are available at [riyadmazari.com](riyadmazari.com)
 
