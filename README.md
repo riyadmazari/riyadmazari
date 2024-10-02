@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riyad Mazari</h1>
-<h3 align="center">🚀 Hello! I'm Riyad Mazari, a 3rd-year CS & AI enthusiast. I blend code with creativity to explore the AI universe. 🤖💡 Welcome to my digital playground! 🌟</h3>
+<h3 align="center">🚀 Hello! I'm Riyad Mazari, a 4th-year CS & AI enthusiast. I blend code with creativity to explore the AI universe. 🤖💡 Welcome to my digital playground! 🌟</h3>
 
 - 🔭 I’m currently working on [PATT](https://github.com/patt-club)
 
