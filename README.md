@@ -65,3 +65,6 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyadmazari&show_icons=true&locale=en&layout=compact" alt="riyadmazari" /></p>
+
+
+[![](https://visitcount.itsvg.in/api?id=riyadmazari&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
