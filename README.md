@@ -63,8 +63,18 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 
+## Current GitHub Stats 📊
+
+![Stats](https://github-readme-stats.vercel.app/api?username=riyadmazari&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyadmazari&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyadmazari&show_icons=true&locale=en&layout=compact" alt="riyadmazari" /></p>
+
+
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 
 [![](https://visitcount.itsvg.in/api?id=riyadmazari&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
