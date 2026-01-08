@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Riyad Mazari</h1>
-<h3 align="center">🚀 Hello! I'm Riyad Mazari, a 4th-year CS & AI enthusiast. I blend code with creativity to explore the AI universe. 🤖💡 Welcome to my digital playground! 🌟</h3>
+<h3 align="center">🚀 Hello! I'm Riyad Mazari, a Master student in CS & Business Technology, and a Graduate in CS & AI. I blend code with creativity to explore the AI universe. 🤖💡 Welcome to my digital playground! 🌟</h3>
 
 - 🔭 I’m currently working on SplitPay
 
-- 🌱 I’m currently learning **Java, Shiny**
-
-- 👨‍💻 All of my projects are available at [riyadmazari.com](riyadmazari.com)
+- 🌱 I’m currently learning **Project Management**
 
 - 💬 Ask me about **GenAI, Data Science**
 
