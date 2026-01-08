@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riyad Mazari</h1>
 <h3 align="center">🚀 Hello! I'm Riyad Mazari, a 4th-year CS & AI enthusiast. I blend code with creativity to explore the AI universe. 🤖💡 Welcome to my digital playground! 🌟</h3>
 
-- 🔭 I’m currently working on OnePool
+- 🔭 I’m currently working on SplitPay
 
 - 🌱 I’m currently learning **Java, Shiny**
 
@@ -62,11 +62,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-
-## Current GitHub Stats 📊
-
-![Stats](https://github-readme-stats.vercel.app/api?username=riyadmazari&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyadmazari&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
